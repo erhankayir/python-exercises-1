@@ -1,0 +1,6 @@
+In this exercise, bubble, merge, quick, selection and insertion algorithms, which are sort algorithms, are used. 
+each algorithm is individually coded and imported in the "main.py" file. 
+When the main file is run, if there is a list according to the user's request, the existing list is created, otherwise, a list is created from the range specified by the user, with the number determined by the user. 
+The created list is sorted using these 5 algorithms and the elapsed time is printed. 
+In addition, the user can reuse the code as many times as he wants. 
+In case of a wrong entry, the user receives a warning and the process is repeated.

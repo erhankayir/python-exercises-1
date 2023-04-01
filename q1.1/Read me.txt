@@ -1,0 +1,4 @@
+In this exercise, arithmetic, geometric and Fibonacci series are coded separately and imported to the main.py file. 
+When the user runs the program, he is greeted with a selection screen and runs the desired series here. 
+In addition, the user can reuse the code as many times as he wants. 
+In case of an incorrect entry, the user receives a warning and the process is repeated.
